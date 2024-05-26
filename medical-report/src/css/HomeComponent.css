@@ -1,0 +1,13 @@
+body {
+    background-color: #f0e2e2;
+}
+
+.home {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+
+.home-content {
+    text-align: center;
+}
